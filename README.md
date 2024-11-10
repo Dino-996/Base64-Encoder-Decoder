@@ -4,19 +4,19 @@ Questo script PowerShell fornisce funzionalità di codifica e decodifica in Base
 
 ## Funzioni
 
-### encoder
+### Encoder
 La funzione `encoder` permette di codificare una stringa in Base64.
 
 - **Input**: Inserisci una stringa da codificare.
 - **Output**: Restituisce la stringa codificata in formato Base64.
 
-### decoder
+### Decoder
 La funzione `decoder` decodifica una stringa Base64, riportandola al testo originale.
 
 - **Input**: Inserisci una stringa codificata in Base64.
 - **Output**: Restituisce la stringa decodificata nel suo formato originale.
 
-### menu
+### Menu
 Il menu principale dell'applicazione. Consente di scegliere una delle seguenti opzioni:
 1. Codifica - Chiama la funzione `encoder` per la codifica in Base64.
 2. Decodifica - Chiama la funzione `decoder` per la decodifica da Base64.
